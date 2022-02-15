@@ -1,6 +1,18 @@
 # DarkHelp-Darknet
 Instructions on how to get Darknet working using DarkHelp Cli
 
+Useful links:
+
+[DarkHelp Server](https://www.ccoderun.ca/darkhelp/api/Server.html)
+
+[DarkHelp ShellScripting](https://www.ccoderun.ca/darkhelp/api/ShellScripting.html)
+
+[DarkHelp Repo - contains instructions](https://github.com/stephanecharette/DarkHelp/)
+
+[DarkHelp Video Tutorial](https://www.youtube.com/watch?v=pJ2iyf_E9PM)
+
+
+I suggest you follow the instructions in the DarkHelp Repo and DarkHelp help video linked above. Below is very similar but has some adjustsments I had to personally make. 
 
 ### Build Darknet
 
