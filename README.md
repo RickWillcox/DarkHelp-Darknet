@@ -11,6 +11,8 @@ Useful links:
 
 [DarkHelp Video Tutorial](https://www.youtube.com/watch?v=pJ2iyf_E9PM)
 
+[DarkNet Repo](https://github.com/AlexeyAB/darknet)
+
 
 I suggest you follow the instructions in the DarkHelp Repo and DarkHelp help video linked above. Below is very similar but has some adjustsments I had to personally make. 
 
